@@ -16,5 +16,5 @@ Vous devez adopter une démarche TDD pour réaliser cette partie :
 • Refactoring jusqu'à ce que la classe soit complète et fonctionnelle puis commiter.
 Pensez à documenter votre code !
 
-#A propos des historiques de commits
+## A propos des historiques de commits
 TP_Bibliotheque est un projet universitaire, et ce dépôt a été créé une fois le travail rendu pour évaluation. Il est cependant possible que j'opère de nouveaux changements aux classes dans le but de parfaire le code.
