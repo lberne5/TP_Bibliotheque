@@ -9,11 +9,17 @@ des livres). La classe Bibliotheque doit proposer des méthodes pour ajouter un 
 bibliothèque, rechercher par auteur, et rechercher par titre. Vous devez gérer les exceptions pour
 ces deux derniers cas (i.e. quand le livre n'est pas trouvé).
 Vous devez adopter une démarche TDD pour réaliser cette partie :
+
 • Création du squelette de la classe puis commiter
+
 • Écriture des tests unitaires puis commiter
+
 • Complétion de la classe puis commiter
+
 • Exécution des tests
+
 • Refactoring jusqu'à ce que la classe soit complète et fonctionnelle puis commiter.
+
 Pensez à documenter votre code !
 
 ## A propos des historiques de commits
